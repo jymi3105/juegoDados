@@ -14,7 +14,7 @@ echo '<form action="par_impar2.php" method="POST">
 <label style="color:white;font-size:1.5em";>PAR:</label>
 <input type="radio" id="parimpar" name="parimpar" value="Par"/>
 <label style="font-size:1.5em;color:white";>IMPAR:</label>
-<input type="radio" id="parimpar" name="parimpar" value="Impar" />
+<input type="radio" id="parimpar" name="parimpar" value="Impar" checked/>
 </fieldset>
 </div>';
 echo '<input style="font-weight:bold; margin-left:40%; margin-top:30px; padding:8px"; type="submit" value="LANZA LOS DADOS!!" name="lanza" "/></form>';
