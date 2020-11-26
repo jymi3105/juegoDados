@@ -5,3 +5,13 @@ php:
 
 script:
   - php index.php
+  
+ deploy:
+
+ provider: heroku
+
+ app: pdes-flappernews
+
+ api_key:
+
+    secure: $HEROKU_API_KEY
