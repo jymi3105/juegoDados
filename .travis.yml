@@ -10,7 +10,7 @@ script:
 
  provider: heroku
 
- app: juegoDados
+ app: dadojorge
 
  api_key:
 
