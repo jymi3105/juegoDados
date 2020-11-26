@@ -10,8 +10,8 @@ script:
 
  provider: heroku
 
- app: pdes-flappernews
+ app: juegoDados
 
  api_key:
 
-    secure: $HEROKU_API_KEY
+    secure: nJ[#Z?RXHc;*7z!
